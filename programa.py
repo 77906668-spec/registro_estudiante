@@ -7,4 +7,4 @@ total = precio * cantidad
 print("=== cafeteria quillabamba ===")
 print("Producto:", producto)
 print("Cantidad:", cantidad)
-print("Total:", total)
+print("Total:", total
